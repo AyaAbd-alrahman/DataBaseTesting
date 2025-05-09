@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-09T10:18:26 EET" name="Default suite" finished-at="2025-05-09T10:18:27 EET" duration-ms="828">
+    <groups>
+    </groups>
+    <test started-at="2025-05-09T10:18:26 EET" name="Default test" finished-at="2025-05-09T10:18:27 EET" duration-ms="828">
+      <class name="DataBaseTesting.DataBaseTesting.AppTest">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:DataBaseTesting.DataBaseTesting.AppTest@5e1fa5b1]" started-at="2025-05-09T10:18:26 EET" name="mySetup" finished-at="2025-05-09T10:18:27 EET" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="AddDataToMyDataBase()[pri:1, instance:DataBaseTesting.DataBaseTesting.AppTest@5e1fa5b1]" started-at="2025-05-09T10:18:27 EET" name="AddDataToMyDataBase" finished-at="2025-05-09T10:18:27 EET" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddDataToMyDataBase -->
+        <test-method signature="Updatedata()[pri:2, instance:DataBaseTesting.DataBaseTesting.AppTest@5e1fa5b1]" started-at="2025-05-09T10:18:27 EET" name="Updatedata" finished-at="2025-05-09T10:18:27 EET" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Updatedata -->
+        <test-method signature="ReadData()[pri:3, instance:DataBaseTesting.DataBaseTesting.AppTest@5e1fa5b1]" started-at="2025-05-09T10:18:27 EET" name="ReadData" finished-at="2025-05-09T10:18:27 EET" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadData -->
+        <test-method signature="DeleteData()[pri:4, instance:DataBaseTesting.DataBaseTesting.AppTest@5e1fa5b1]" started-at="2025-05-09T10:18:27 EET" name="DeleteData" finished-at="2025-05-09T10:18:27 EET" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteData -->
+      </class> <!-- DataBaseTesting.DataBaseTesting.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
